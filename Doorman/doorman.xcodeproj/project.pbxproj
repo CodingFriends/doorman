@@ -34,12 +34,10 @@
 		32CA4F630368D1EE00C91783 /* doorman_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = doorman_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* Doorman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Doorman.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9515E91115C1AF6D00CA8D3D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = fr; path = fr.lproj/Credits.html; sourceTree = "<group>"; };
 		9515E91215C1AF6D00CA8D3D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		9515E91815C1B19C00CA8D3D /* fr */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = fr; path = fr.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		957E72541595E45F00F0E829 /* de */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = de; path = de.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		957E72551595E75E00F0E829 /* de */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
-		957E72561595E77200F0E829 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = de; path = de.lproj/Credits.html; sourceTree = "<group>"; };
 		959D9B24158E240F00BDCD89 /* Doorman.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Doorman.entitlements; sourceTree = "<group>"; };
 		959D9B25158E4A4300BDCD89 /* star_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star_white.png; sourceTree = "<group>"; };
 		959D9B27158E4B7700BDCD89 /* star_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star_yellow.png; sourceTree = "<group>"; };
@@ -243,8 +241,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				0E92BFBC102349C200D2B589 /* English */,
-				957E72561595E77200F0E829 /* de */,
-				9515E91115C1AF6D00CA8D3D /* fr */,
 			);
 			name = Credits.html;
 			sourceTree = "<group>";
