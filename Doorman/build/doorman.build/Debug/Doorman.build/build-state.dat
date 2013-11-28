@@ -1,0 +1,525 @@
+TDoorman
+v7
+r0
+t319666445.985052
+cCheck dependencies
+cProcessInfoPlistFile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Info.plist Info.plist
+cCompileXIB /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib
+cCompileXIB /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib
+cCpResource build/Debug/Doorman.app/Contents/Resources/English.lproj/Credits.html English.lproj/Credits.html
+cCpResource build/Debug/Doorman.app/Contents/Resources/German.lproj/Credits.html German.lproj/Credits.html
+cCopyStringsFile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+cCopyStringsFile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj/Localizable.strings German.lproj/Localizable.strings
+cCpResource build/Debug/Doorman.app/Contents/Resources/app_icon.icns app_icon.icns
+cProcessPCH /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch.gch doorman_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/main.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/AppController.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/DMRandom.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/PasswordHero.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+cLd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman normal x86_64
+cTouch /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.h
+c000000004D4305950000000000000657
+t1296237973
+s1623
+i<Cocoa/Cocoa.h>
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m
+c000000004D5D7CF40000000000004187
+t1297972468
+s16775
+i"AppController.h"
+i"PasswordHero.h"
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.h
+c000000004A420F5A000000000000014D
+t1245843290
+s333
+i<Cocoa/Cocoa.h>
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m
+c000000004AC62E7600000000000002DA
+t1254502006
+s730
+i"DMRandom.h"
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/Credits.html
+c000000004D39ACFC00000000000002B6
+t1295625468
+s694
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/Localizable.strings
+c000000004AC4D35A000000000000068A
+t1254413146
+s1674
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib
+c000000004D43056B0000000000022695
+t1296237931
+s140949
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/Credits.html
+c000000004AC6302400000000000002CD
+t1254502436
+s717
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/Localizable.strings
+c000000004AC4D344000000000000038A
+t1254413124
+s906
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib
+c000000004D43056C000000000002261B
+t1296237932
+s140827
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.h
+c000000004D4303EB00000000000005D4
+t1296237547
+s1492
+i<Cocoa/Cocoa.h>
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m
+c000000004D5D7D830000000000003214
+t1297972611
+s12820
+i"PasswordHero.h"
+i"DMRandom.h"
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/app_icon.icns
+c000000004D42F730000000000001D3A6
+t1296234288
+s119718
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app
+t1297973645
+s102
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Info.plist
+t1297973640
+s1193
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman
+t1297973645
+s72664
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/PkgInfo
+t1297973640
+s8
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj/Credits.html
+t1297973642
+s694
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj/Localizable.strings
+t1297973642
+s1674
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj/MainMenu.nib
+t1297973642
+s25962
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj/Credits.html
+t1297973642
+s717
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj/Localizable.strings
+t1297973642
+s1790
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj/MainMenu.nib
+t1297973642
+s26706
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/app_icon.icns
+t1297973642
+s119718
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/AppController.o
+t1297696912
+s65496
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/DMRandom.o
+t1297694441
+s8660
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/Doorman.LinkFileList
+c000000004D593EE00000000000000221
+t1297694432
+s545
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/PasswordHero.o
+t1297696862
+s51744
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/main.o
+t1297694441
+s4884
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/AppController.o
+t1297973645
+s80312
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/DMRandom.o
+t1297973645
+s9076
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/Doorman.LinkFileList
+c000000004D5D81880000000000000229
+t1297973640
+s553
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/PasswordHero.o
+t1297973645
+s69928
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/main.o
+t1297973645
+s4824
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/StaticAnalyzer/normal/i386/AppController.plist
+t1297696912
+s276
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/StaticAnalyzer/normal/i386/DMRandom.plist
+t1297696862
+s276
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/StaticAnalyzer/normal/i386/PasswordHero.plist
+t1297696862
+s276
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/StaticAnalyzer/normal/i386/main.plist
+t1297696861
+s276
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/doorman_Prefix.pch
+c000000004A4202720000000000000091
+t1245839986
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m
+c000000004A42027200000000000000F7
+t1245839986
+s247
+i<Cocoa/Cocoa.h>
+
+N/var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch.gch
+t1297973645
+s32801444
+
+N/var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-dpawevlmevmpnnglcbchrcqeldmm/doorman_Prefix.pch.pth
+t1297696861
+s8822672
+
+N/var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-gsdiyzrajdrrryezwyddwgryzmbv/doorman_Prefix.pch.gch
+t1297694440
+s34644756
+
+NInfo.plist
+c000000004D5D811D00000000000004CF
+t1297973533
+s1231
+
+CAnalyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m
+s319389712.631068
+e319389712.842616
+r1
+xAnalyze
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m
+lSLF07#2@87"Analyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m319389712#319389712#0(0"0(0#0#79"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m8610023968#1789"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-dpawevlmevmpnnglcbchrcqeldmm/doorman_Prefix.pch --analyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/StaticAnalyzer/normal/i386/AppController.plist0#
+
+CAnalyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m
+s319389662.215424
+e319389662.370456
+r1
+xAnalyze
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m
+lSLF07#2@82"Analyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m319389662#319389662#0(0"0(0#0#74"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m8616426112#1779"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-dpawevlmevmpnnglcbchrcqeldmm/doorman_Prefix.pch --analyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/StaticAnalyzer/normal/i386/DMRandom.plist0#
+
+CAnalyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m
+s319389662.228122
+e319389662.919669
+r1
+xAnalyze
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m
+lSLF07#2@86"Analyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m319389662#319389662#0(0"0(0#0#78"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m8616087424#1787"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-dpawevlmevmpnnglcbchrcqeldmm/doorman_Prefix.pch --analyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/StaticAnalyzer/normal/i386/PasswordHero.plist0#
+
+CAnalyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m
+s319389661.784820
+e319389662.006830
+r1
+xAnalyze
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m
+lSLF07#2@78"Analyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m319389661#319389662#0(0"0(0#0#70"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m8621375680#1771"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-dpawevlmevmpnnglcbchrcqeldmm/doorman_Prefix.pch --analyze /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319666440#319666440#0(0"0(0#1#0"8616449792#0"0#
+
+CCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/i386/AppController.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s319389712.457100
+e319389712.894665
+r1
+xCompileC
+xbuild/doorman.build/Debug/Doorman.build/Objects-normal/i386/AppController.o
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@87"Compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m319389712#319389712#0(0"0(0#0#79"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m8604500192#1735"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-gsdiyzrajdrrryezwyddwgryzmbv/doorman_Prefix.pch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/AppController.o0#
+
+CCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/i386/DMRandom.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s319387241.184941
+e319387241.373992
+r1
+xCompileC
+xbuild/doorman.build/Debug/Doorman.build/Objects-normal/i386/DMRandom.o
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@82"Compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m319387241#319387241#0(0"0(0#0#74"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m8608712896#1725"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-gsdiyzrajdrrryezwyddwgryzmbv/doorman_Prefix.pch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/DMRandom.o0#
+
+CCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/i386/PasswordHero.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s319389661.783708
+e319389662.124142
+r1
+xCompileC
+xbuild/doorman.build/Debug/Doorman.build/Objects-normal/i386/PasswordHero.o
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@86"Compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m319389661#319389662#0(0"0(0#0#78"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m8625087264#1733"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-gsdiyzrajdrrryezwyddwgryzmbv/doorman_Prefix.pch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/PasswordHero.o0#
+
+CCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/i386/main.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s319387240.975654
+e319387241.184827
+r1
+xCompileC
+xbuild/doorman.build/Debug/Doorman.build/Objects-normal/i386/main.o
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@78"Compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m319387240#319387241#0(0"0(0#0#70"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m8607997248#1717"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-gsdiyzrajdrrryezwyddwgryzmbv/doorman_Prefix.pch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/main.o0#
+
+CCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/AppController.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+s319666445.432253
+e319666445.722399
+r1
+xCompileC
+xbuild/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/AppController.o
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@87"Compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m319666445#319666445#0(0"0(0#0#79"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m8617822496#1741"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/x86_64 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/AppController.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/DMRandom.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+s319666445.540562
+e319666445.685577
+r1
+xCompileC
+xbuild/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/DMRandom.o
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@82"Compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m319666445#319666445#0(0"0(0#0#74"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m8616768224#1731"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/x86_64 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/DMRandom.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/DMRandom.o0#
+
+CCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/PasswordHero.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+s319666445.685681
+e319666445.894380
+r1
+xCompileC
+xbuild/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/PasswordHero.o
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@86"Compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m319666445#319666445#0(0"0(0#0#78"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m8620334336#1739"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/x86_64 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/PasswordHero.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/PasswordHero.o0#
+
+CCompileC build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/main.o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+s319666445.430927
+e319666445.540459
+r1
+xCompileC
+xbuild/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/main.o
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@78"Compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m319666445#319666445#0(0"0(0#0#70"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m8618127232#1723"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/x86_64 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -include /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/main.m -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib
+s319666440.258574
+e319666442.290879
+r1
+xCompileXIB
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib:475: note: This view is clipping its content.
+o/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib:499: note: This view is clipping its content.
+o/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib:406: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib319666440#319666442#0(451"/* com.apple.ibtool.document.notices *//Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib:475: note: This view is clipping its content./Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib:499: note: This view is clipping its content./Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib:406: note: This view is clipping its content.3(13@34"This view is clipping its content.319666442#18446744073709551615#0#0(6@90"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib317930731#475#0#475#0#0"0(13@34"This view is clipping its content.319666442#18446744073709551615#0#0(6@90"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib317930731#499#0#499#0#0"0(13@34"This view is clipping its content.319666442#18446744073709551615#0#0(6@90"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib317930731#406#0#406#0#0"0(0#0#90"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib8618699520#439"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj/MainMenu.nib /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCompileXIB /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib
+s319666440.259447
+e319666442.284554
+r1
+xCompileXIB
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib:476: note: This view is clipping its content.
+o/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib:474: note: This view is clipping its content.
+o/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib:406: note: This view is clipping its content.
+lSLF07#2@36"CompileXIB German.lproj/MainMenu.xib319666440#319666442#0(448"/* com.apple.ibtool.document.notices *//Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib:476: note: This view is clipping its content./Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib:474: note: This view is clipping its content./Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib:406: note: This view is clipping its content.3(13@34"This view is clipping its content.319666442#18446744073709551615#0#0(6@89"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib317930732#476#0#476#0#0"0(13@34"This view is clipping its content.319666442#18446744073709551615#0#0(6@89"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib317930732#474#0#474#0#0"0(13@34"This view is clipping its content.319666442#18446744073709551615#0#0(6@89"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib317930732#406#0#406#0#0"0(0#0#89"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib8619126688#437"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj/MainMenu.nib /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s319666442.287895
+e319666442.662151
+r1
+xCopyStringsFile
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings319666442#319666442#0(0"0(0#0#97"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/Localizable.strings8619997248#418"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/Localizable.strings --outdir /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj/Localizable.strings German.lproj/Localizable.strings
+s319666442.374885
+e319666442.663174
+r1
+xCopyStringsFile
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj/Localizable.strings
+xGerman.lproj/Localizable.strings
+lSLF07#2@37"Copy German.lproj/Localizable.strings319666442#319666442#0(0"0(0#0#96"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/Localizable.strings8620580960#415"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 German.lproj/Localizable.strings --outdir /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj0#
+
+CCpResource build/Debug/Doorman.app/Contents/Resources/English.lproj/Credits.html English.lproj/Credits.html
+s319666442.284694
+e319666442.318995
+r1
+xCpResource
+xbuild/Debug/Doorman.app/Contents/Resources/English.lproj/Credits.html
+xEnglish.lproj/Credits.html
+lSLF07#2@31"Copy English.lproj/Credits.html319666442#319666442#0(0"0(0#0#90"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/Credits.html8618131776#445"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/English.lproj/Credits.html /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Doorman.app/Contents/Resources/German.lproj/Credits.html German.lproj/Credits.html
+s319666442.285950
+e319666442.374759
+r1
+xCpResource
+xbuild/Debug/Doorman.app/Contents/Resources/German.lproj/Credits.html
+xGerman.lproj/Credits.html
+lSLF07#2@30"Copy German.lproj/Credits.html319666442#319666442#0(0"0(0#0#89"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/Credits.html8619185792#443"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/German.lproj/Credits.html /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources/German.lproj0#
+
+CCpResource build/Debug/Doorman.app/Contents/Resources/app_icon.icns app_icon.icns
+s319666442.662267
+e319666442.668142
+r1
+xCpResource
+xbuild/Debug/Doorman.app/Contents/Resources/app_icon.icns
+xapp_icon.icns
+lSLF07#2@18"Copy app_icon.icns319666442#319666442#0(0"0(0#0#77"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/app_icon.icns8620538464#418"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/app_icon.icns /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Resources0#
+
+CLd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman normal i386
+s319389712.894805
+e319389712.929644
+r1
+xLd
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman
+xnormal
+xi386
+lSLF07#2@115"Link /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman319389712#319389712#0(0"0(0#0#0"8621376064#663"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -filelist /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/i386/Doorman.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman0#
+
+CLd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman normal x86_64
+s319666445.894518
+e319666445.981799
+r1
+xLd
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman
+xnormal
+xx86_64
+lSLF07#2@115"Link /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman319666445#319666445#0(0"0(0#0#0"8618416416#667"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.0 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -filelist /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Objects-normal/x86_64/Doorman.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/MacOS/Doorman0#
+
+CProcessInfoPlistFile /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Info.plist Info.plist
+s319666440.253814
+e319666440.258346
+r1
+xProcessInfoPlistFile
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist319666440#319666440#0(0"0(0#0#74"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/Info.plist8620135168#377"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    builtin-infoPlistUtility Info.plist -genpkginfo /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch.gch doorman_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_0
+s319666442.668296
+e319666445.430735
+r1
+xProcessPCH
+x/var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch.gch
+xdoorman_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@29"Precompile doorman_Prefix.pch319666442#319666445#0(0"0(0#0#82"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/doorman_Prefix.pch8620480992#1604"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/x86_64 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/doorman_Prefix.pch -o /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-bcaodrhlghxygydftuuxxtyybgdl/doorman_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-dpawevlmevmpnnglcbchrcqeldmm/doorman_Prefix.pch.pth doorman_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s319389660.129246
+e319389661.783266
+r1
+xProcessPCH
+x/var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-dpawevlmevmpnnglcbchrcqeldmm/doorman_Prefix.pch.pth
+xdoorman_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@29"Precompile doorman_Prefix.pch319389660#319389661#0(0"0(0#0#82"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/doorman_Prefix.pch8617828064#1636"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/doorman_Prefix.pch -o /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-dpawevlmevmpnnglcbchrcqeldmm/doorman_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-gsdiyzrajdrrryezwyddwgryzmbv/doorman_Prefix.pch.gch doorman_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s319387235.226398
+e319387240.975502
+r1
+xProcessPCH
+x/var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-gsdiyzrajdrrryezwyddwgryzmbv/doorman_Prefix.pch.gch
+xdoorman_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@29"Precompile doorman_Prefix.pch319387235#319387240#0(0"0(0#0#82"/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/doorman_Prefix.pch8604235168#1600"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-generated-files.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-own-target-headers.hmap -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-all-target-headers.hmap -iquote /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/Doorman-project-headers.hmap -F/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/include -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources/i386 -I/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/doorman.build/Debug/Doorman.build/DerivedSources -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/doorman_Prefix.pch -o /var/folders/y1/y190XoIzGHqlOAb9WRjEE++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/doorman_Prefix-gsdiyzrajdrrryezwyddwgryzmbv/doorman_Prefix.pch.gch0#
+
+CTouch /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app
+s319666445.981890
+e319666445.985014
+r1
+xTouch
+x/Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app
+lSLF07#2@93"Touch /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app319666445#319666445#0(0"0(0#0#0"8617988384#181"    cd /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman    /usr/bin/touch -c /Users/julius/Documents/Turbosoft3000/Code/ObjC/Doorman/Doorman/build/Debug/Doorman.app0#
+

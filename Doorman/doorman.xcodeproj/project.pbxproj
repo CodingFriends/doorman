@@ -1,0 +1,400 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0E92BFBF102349C200D2B589 /* Credits.html in Resources */ = {isa = PBXBuildFile; fileRef = 0E92BFBB102349C200D2B589 /* Credits.html */; };
+		0E92BFC510234A1C00D2B589 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0E92BFC310234A1C00D2B589 /* Localizable.strings */; };
+		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		959D9B26158E4A4300BDCD89 /* star_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 959D9B25158E4A4300BDCD89 /* star_white.png */; };
+		959D9B28158E4B7700BDCD89 /* star_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 959D9B27158E4B7700BDCD89 /* star_yellow.png */; };
+		95D8742911D2509200F2B6A0 /* PasswordHero.m in Sources */ = {isa = PBXBuildFile; fileRef = 95D8742811D2509200F2B6A0 /* PasswordHero.m */; };
+		95FFCB6E15D56FCB0019E369 /* favorites_overlay.png in Resources */ = {isa = PBXBuildFile; fileRef = 95FFCB6A15D56FCB0019E369 /* favorites_overlay.png */; };
+		95FFCB6F15D56FCB0019E369 /* favorites_overlay@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 95FFCB6C15D56FCB0019E369 /* favorites_overlay@2x.png */; };
+		95FFCB7F15D576830019E369 /* app_icon.iconset in Resources */ = {isa = PBXBuildFile; fileRef = 95FFCB7E15D576830019E369 /* app_icon.iconset */; };
+		A792C8E20FF23C480062F525 /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = A792C8E10FF23C480062F525 /* AppController.m */; };
+		A792C8EC0FF241C00062F525 /* DMRandom.m in Sources */ = {isa = PBXBuildFile; fileRef = A792C8EB0FF241BF0062F525 /* DMRandom.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0E92BFBC102349C200D2B589 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = English; path = English.lproj/Credits.html; sourceTree = "<group>"; };
+		0E92BFC410234A1C00D2B589 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/Localizable.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		1DDD58150DA1D0A300B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32CA4F630368D1EE00C91783 /* doorman_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = doorman_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* Doorman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Doorman.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9515E91115C1AF6D00CA8D3D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = fr; path = fr.lproj/Credits.html; sourceTree = "<group>"; };
+		9515E91215C1AF6D00CA8D3D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		9515E91815C1B19C00CA8D3D /* fr */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = fr; path = fr.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		957E72541595E45F00F0E829 /* de */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = de; path = de.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		957E72551595E75E00F0E829 /* de */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		957E72561595E77200F0E829 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = de; path = de.lproj/Credits.html; sourceTree = "<group>"; };
+		959D9B24158E240F00BDCD89 /* Doorman.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Doorman.entitlements; sourceTree = "<group>"; };
+		959D9B25158E4A4300BDCD89 /* star_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star_white.png; sourceTree = "<group>"; };
+		959D9B27158E4B7700BDCD89 /* star_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star_yellow.png; sourceTree = "<group>"; };
+		95D8742711D2509200F2B6A0 /* PasswordHero.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PasswordHero.h; sourceTree = "<group>"; };
+		95D8742811D2509200F2B6A0 /* PasswordHero.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PasswordHero.m; sourceTree = "<group>"; };
+		95FFCB6B15D56FCB0019E369 /* English */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = English; path = English.lproj/favorites_overlay.png; sourceTree = "<group>"; };
+		95FFCB6D15D56FCB0019E369 /* English */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = English; path = "English.lproj/favorites_overlay@2x.png"; sourceTree = "<group>"; };
+		95FFCB7615D56FF90019E369 /* fr */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fr; path = fr.lproj/favorites_overlay.png; sourceTree = "<group>"; };
+		95FFCB7715D56FF90019E369 /* fr */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fr; path = "fr.lproj/favorites_overlay@2x.png"; sourceTree = "<group>"; };
+		95FFCB7A15D570100019E369 /* de */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = de; path = de.lproj/favorites_overlay.png; sourceTree = "<group>"; };
+		95FFCB7B15D570100019E369 /* de */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = de; path = "de.lproj/favorites_overlay@2x.png"; sourceTree = "<group>"; };
+		95FFCB7E15D576830019E369 /* app_icon.iconset */ = {isa = PBXFileReference; lastKnownFileType = folder.iconset; path = app_icon.iconset; sourceTree = "<group>"; };
+		A792C8E00FF23C480062F525 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
+		A792C8E10FF23C480062F525 /* AppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppController.m; sourceTree = "<group>"; };
+		A792C8EA0FF241BF0062F525 /* DMRandom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DMRandom.h; sourceTree = "<group>"; };
+		A792C8EB0FF241BF0062F525 /* DMRandom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DMRandom.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A792C8E00FF23C480062F525 /* AppController.h */,
+				A792C8E10FF23C480062F525 /* AppController.m */,
+				95D8742711D2509200F2B6A0 /* PasswordHero.h */,
+				95D8742811D2509200F2B6A0 /* PasswordHero.m */,
+				A792C8EA0FF241BF0062F525 /* DMRandom.h */,
+				A792C8EB0FF241BF0062F525 /* DMRandom.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* Doorman.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* doorman */ = {
+			isa = PBXGroup;
+			children = (
+				959D9B24158E240F00BDCD89 /* Doorman.entitlements */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = doorman;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* doorman_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				95FFCB7E15D576830019E369 /* app_icon.iconset */,
+				959D9B25158E4A4300BDCD89 /* star_white.png */,
+				959D9B27158E4B7700BDCD89 /* star_yellow.png */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				95FFCB6A15D56FCB0019E369 /* favorites_overlay.png */,
+				95FFCB6C15D56FCB0019E369 /* favorites_overlay@2x.png */,
+				0E92BFC310234A1C00D2B589 /* Localizable.strings */,
+				0E92BFBB102349C200D2B589 /* Credits.html */,
+				1DDD58140DA1D0A300B32029 /* MainMenu.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* Doorman */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Doorman" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Doorman;
+			productInstallPath = "$(HOME)/Applications";
+			productName = doorman;
+			productReference = 8D1107320486CEB800E47090 /* Doorman.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "doorman" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				de,
+				fr,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* doorman */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* Doorman */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				0E92BFBF102349C200D2B589 /* Credits.html in Resources */,
+				0E92BFC510234A1C00D2B589 /* Localizable.strings in Resources */,
+				959D9B26158E4A4300BDCD89 /* star_white.png in Resources */,
+				959D9B28158E4B7700BDCD89 /* star_yellow.png in Resources */,
+				95FFCB6E15D56FCB0019E369 /* favorites_overlay.png in Resources */,
+				95FFCB6F15D56FCB0019E369 /* favorites_overlay@2x.png in Resources */,
+				95FFCB7F15D576830019E369 /* app_icon.iconset in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				A792C8E20FF23C480062F525 /* AppController.m in Sources */,
+				A792C8EC0FF241C00062F525 /* DMRandom.m in Sources */,
+				95D8742911D2509200F2B6A0 /* PasswordHero.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0E92BFBB102349C200D2B589 /* Credits.html */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0E92BFBC102349C200D2B589 /* English */,
+				957E72561595E77200F0E829 /* de */,
+				9515E91115C1AF6D00CA8D3D /* fr */,
+			);
+			name = Credits.html;
+			sourceTree = "<group>";
+		};
+		0E92BFC310234A1C00D2B589 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0E92BFC410234A1C00D2B589 /* English */,
+				957E72551595E75E00F0E829 /* de */,
+				9515E91215C1AF6D00CA8D3D /* fr */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		1DDD58140DA1D0A300B32029 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1DDD58150DA1D0A300B32029 /* English */,
+				957E72541595E45F00F0E829 /* de */,
+				9515E91815C1B19C00CA8D3D /* fr */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		95FFCB6A15D56FCB0019E369 /* favorites_overlay.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				95FFCB6B15D56FCB0019E369 /* English */,
+				95FFCB7615D56FF90019E369 /* fr */,
+				95FFCB7A15D570100019E369 /* de */,
+			);
+			name = favorites_overlay.png;
+			sourceTree = "<group>";
+		};
+		95FFCB6C15D56FCB0019E369 /* favorites_overlay@2x.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				95FFCB6D15D56FCB0019E369 /* English */,
+				95FFCB7715D56FF90019E369 /* fr */,
+				95FFCB7B15D570100019E369 /* de */,
+			);
+			name = "favorites_overlay@2x.png";
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_ENTITLEMENTS = Doorman.entitlements;
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Reimers Gabriel, Peinelt Julius & Neovesky Anna/";
+				COMBINE_HIDPI_IMAGES = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = doorman_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PRODUCT_NAME = Doorman;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_ENTITLEMENTS = Doorman.entitlements;
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Reimers Gabriel, Peinelt Julius & Neovesky Anna/";
+				COMBINE_HIDPI_IMAGES = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = doorman_Prefix.pch;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PRODUCT_NAME = Doorman;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "Doorman" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "doorman" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

@@ -1,0 +1,4 @@
+Doorman is the password generator the world waited for...ok, it isn't, but it is a password generator that you will like.
+
+You can get a random password with the length you wish and restrain the symbols that should be used. You can combine letters in lower and upper case, numbers and special characters. 
+Furthermore Doorman can generate speakable passwords that are easier to remember because they follow the syllable construction pattern of natural language.
